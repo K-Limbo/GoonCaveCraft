@@ -1,0 +1,24 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "simplyswords:runic_grimoire": {
+      "viewedEntries": [
+        "simplyswords:weapon_variants/entry_claymore",
+        "simplyswords:weapon_variants/entry_sai"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
